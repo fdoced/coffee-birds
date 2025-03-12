@@ -1,0 +1,87 @@
+#;spp_sel;forest_color;forest_dependence;endemismo;estado;Wilman2014;spp_end
+1;Ortalis columbiana;orange;none;E;R;FruiNect;Ortalis columbiana (E)
+2;Leptotila verreauxi;orange;none;-;R;PlantSeed;Leptotila verreauxi
+3;Zenaida auriculata;orange;none;-;R;PlantSeed;Zenaida auriculata
+4;Columbina talpacoti;orange;none;-;R;PlantSeed;Columbina talpacoti
+5;Crotophaga ani;orange;none;-;R;Omnivore;Crotophaga ani
+6;Piaya cayana;green;yes;-;R;Invertebrate;Piaya cayana
+7;Phaethornis guy;green;yes;-;R;FruiNect;Phaethornis guy
+8;Colibri cyanotus;orange;none;-;R;FruiNect;Colibri cyanotus
+9;Anthracothorax nigricollis;orange;none;-;R;FruiNect;Anthracothorax nigricollis
+10;Chlorostilbon melanorhynchus;green;yes;CE;R;FruiNect;Chlorostilbon melanorhynchus (NE)
+11;Saucerottia saucerottei;green;yes;-;R;FruiNect;Saucerottia saucerottei
+12;Amazilia tzacatl;orange;none;-;R;FruiNect;Amazilia tzacatl
+13;Uranomitra franciae;green;yes;-;R;FruiNect;Uranomitra franciae
+14;Accipiter striatus;green;yes;-;R;VertFishScav;Accipiter striatus
+15;Momotus aequatorialis;green;yes;-;R;Invertebrate;Momotus aequatorialis
+16;Malacoptila mystacalis;green;yes;-;R;Invertebrate;Malacoptila mystacalis
+17;Eubucco bourcierii;green;yes;-;R;FruiNect;Eubucco bourcierii
+18;Aulacorhynchus albivitta;green;yes;-;R;Omnivore;Aulacorhynchus albivitta
+19;Picumnus granadensis;green;yes;E;R;Invertebrate;Picumnus granadensis (E)
+20;Melanerpes formicivorus;green;yes;-;R;PlantSeed;Melanerpes formicivorus
+21;Melanerpes rubricapillus;orange;none;-;R;FruiNect;Melanerpes rubricapillus
+22;Dryocopus lineatus;orange;none;-;R;Invertebrate;Dryocopus lineatus
+23;Milvago chimachima;orange;none;-;R;VertFishScav;Milvago chimachima
+24;Thamnophilus multistriatus;green;yes;CE;R;Invertebrate;Thamnophilus multistriatus (NE)
+25;Cercomacroides parkeri;green;yes;E;R;Invertebrate;Cercomacroides parkeri (E)
+26;Grallaria guatimalensis;green;yes;-;R;Invertebrate;Grallaria guatimalensis
+27;Grallaria ruficapilla;green;yes;-;R;Invertebrate;Grallaria ruficapilla
+28;Synallaxis azarae;orange;none;-;R;Invertebrate;Synallaxis azarae
+29;Phyllomyias griseiceps;green;yes;-;R;Invertebrate;Phyllomyias griseiceps
+30;Elaenia flavogaster;orange;none;-;R;Omnivore;Elaenia flavogaster
+31;Elaenia frantzii;green;yes;-;R;FruiNect;Elaenia frantzii
+32;Camptostoma obsoletum;orange;none;-;R;Invertebrate;Camptostoma obsoletum
+33;Zimmerius chrysops;green;yes;-;R;Invertebrate;Zimmerius chrysops
+34;Mionectes oleagineus;green;yes;-;R;FruiNect;Mionectes oleagineus
+35;Leptopogon superciliaris;green;yes;-;R;Invertebrate;Leptopogon superciliaris
+36;Todirostrum cinereum;orange;none;-;R;Invertebrate;Todirostrum cinereum
+37;Contopus cinereus;green;yes;-;M;Invertebrate;Contopus cinereus
+38;Sayornis nigricans;orange;none;-;R;Invertebrate;Sayornis nigricans
+39;Myiozetetes cayanensis;orange;none;-;R;Invertebrate;Myiozetetes cayanensis
+40;Pitangus sulphuratus;orange;none;-;R;Omnivore;Pitangus sulphuratus
+41;Myiodynastes maculatus;orange;none;-;R;Omnivore;Myiodynastes maculatus
+42;Myiodynastes chrysocephalus;green;yes;-;R;Omnivore;Myiodynastes chrysocephalus
+43;Tyrannus melancholicus;orange;none;-;R;Invertebrate;Tyrannus melancholicus
+44;Rupicola peruvianus;green;yes;-;R;FruiNect;Rupicola peruvianus
+45;Pachyramphus polychopterus;green;yes;-;R;Omnivore;Pachyramphus polychopterus
+46;Cyanocorax yncas;green;yes;-;R;Omnivore;Cyanocorax yncas
+47;Troglodytes aedon;orange;none;-;R;Invertebrate;Troglodytes aedon
+48;Pheugopedius mystacalis;green;yes;CE;R;Invertebrate;Pheugopedius mystacalis (NE)
+49;Myadestes ralloides;green;yes;-;R;Omnivore;Myadestes ralloides
+50;Catharus aurantiirostris;green;yes;-;R;Omnivore;Catharus aurantiirostris
+51;Turdus grayi;orange;none;-;R;FruiNect;Turdus grayi
+52;Turdus ignobilis;orange;none;-;R;Omnivore;Turdus ignobilis
+53;Spinus psaltria;orange;none;-;R;PlantSeed;Spinus psaltria
+54;Euphonia laniirostris;green;yes;-;R;FruiNect;Euphonia laniirostris
+55;Arremon brunneinucha;green;yes;-;R;Omnivore;Arremon brunneinucha
+56;Zonotrichia capensis;orange;none;-;R;PlantSeed;Zonotrichia capensis
+57;Atlapetes albinucha;green;yes;-;R;Omnivore;Atlapetes albinucha
+58;Psarocolius angustifrons;green;yes;-;R;Omnivore;Psarocolius angustifrons
+59;Psarocolius decumanus;green;yes;-;R;FruiNect;Psarocolius decumanus
+60;Icterus chrysater;green;yes;-;R;Invertebrate;Icterus chrysater
+61;Molothrus bonariensis;orange;none;-;R;Invertebrate;Molothrus bonariensis
+62;Hypopyrrhus pyrohypogaster;green;yes;E;R;Omnivore;Hypopyrrhus pyrohypogaster (E)
+63;Setophaga pitiayumi;green;yes;-;M;Invertebrate;Setophaga pitiayumi
+64;Setophaga fusca;green;yes;-;M;Invertebrate;Setophaga fusca
+65;Basileuterus culicivorus;green;yes;-;R;Invertebrate;Basileuterus culicivorus
+66;Myioborus miniatus;green;yes;-;R;Invertebrate;Myioborus miniatus
+67;Piranga flava;orange;none;-;R;Invertebrate;Piranga flava
+68;Hemithraupis guira;green;yes;-;R;Invertebrate;Hemithraupis guira
+69;Volatinia jacarina;orange;none;-;R;Omnivore;Volatinia jacarina
+70;Tachyphonus rufus;orange;none;-;R;Invertebrate;Tachyphonus rufus
+71;Ramphocelus dimidiatus;orange;none;CE;R;Omnivore;Ramphocelus dimidiatus (NE)
+72;Ramphocelus flammigerus;orange;none;-;R;FruiNect;Ramphocelus flammigerus
+73;Sporophila luctuosa;orange;none;-;R;PlantSeed;Sporophila luctuosa
+74;Sporophila nigricollis;orange;none;-;R;PlantSeed;Sporophila nigricollis
+75;Saltator maximus;green;yes;-;R;Invertebrate;Saltator maximus
+76;Saltator atripennis;green;yes;CE;R;Invertebrate;Saltator atripennis (NE)
+77;Saltator striatipectus;orange;none;-;R;Invertebrate;Saltator striatipectus
+78;Coereba flaveola;orange;none;-;R;FruiNect;Coereba flaveola
+79;Tiaris olivaceus;orange;none;-;R;PlantSeed;Tiaris olivaceus
+80;Stilpnia heinei;green;yes;-;R;FruiNect;Stilpnia heinei
+81;Stilpnia vitriolina;orange;none;CE;R;Invertebrate;Stilpnia vitriolina (NE)
+82;Stilpnia cyanicollis;orange;none;-;R;FruiNect;Stilpnia cyanicollis
+83;Tangara gyrola;green;yes;-;R;FruiNect;Tangara gyrola
+84;Tangara arthus;green;yes;-;R;FruiNect;Tangara arthus
+85;Thraupis episcopus;orange;none;-;R;Omnivore;Thraupis episcopus
+86;Thraupis palmarum;orange;none;-;R;FruiNect;Thraupis palmarum
